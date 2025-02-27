@@ -1,0 +1,1 @@
+# Prediction-of-GI-diseases-using-endoscopy-images
